@@ -1,3 +1,6 @@
+<img width="750" height="382" alt="image" src="https://github.com/user-attachments/assets/5c7a184f-e003-49fc-8c00-0336571fd86b" />
+
+
 # Kibana – Complete Guide (Visualizations, Dashboards, KQL)
 
 ## What is Kibana?
