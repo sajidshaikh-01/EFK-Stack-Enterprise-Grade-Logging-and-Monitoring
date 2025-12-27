@@ -1,3 +1,7 @@
+<img width="1063" height="506" alt="image" src="https://github.com/user-attachments/assets/4d7cb6bc-b527-4e85-bc7f-19fd04efc9a5" />
+
+
+
 # Elasticsearch Nodes and Cluster – Complete Guide (Production Ready)
 
 ## What is an Elasticsearch Cluster?
