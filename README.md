@@ -7,7 +7,7 @@
 
 EFK stands for **Elasticsearch + Fluentd (or Fluent Bit) + Kibana**. It is a **centralized logging stack** used to collect, process, store, search, and visualize logs from applications and infrastructure, especially in Kubernetes environments.
 
-EFK is preferred in cloud-native setups because it is **lightweight, scalable, Kubernetes-friendly**, and easier to operate compared to ELK.....
+EFK is preferred in cloud-native setups because it is **lightweight, scalable, Kubernetes-friendly**, and easier to operate compared to ELK....
 
 ---
 
